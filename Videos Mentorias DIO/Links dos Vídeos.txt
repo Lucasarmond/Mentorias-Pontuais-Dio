@@ -1,0 +1,15 @@
+Mentoria #2: Apresentação dos projetos de Tecnologia da Philips - https://www.youtube.com/watch?v=B-0RmVim2a0
+
+Mentoria #3: Como resolver os desafios de código - https://www.youtube.com/watch?v=r0Gj7wG189A
+
+Próximas Mentorias 
+
+Mentoria #4: Banco de dados ORACLE 26/4/2022
+
+Definição do ambiente e introdução ao PLSQL 25/04/2022 
+
+Procedures e Funções, estruturas de repetição e tratamento de exceções 28/04/2022
+
+Mentoria #5: Abstraindo Situações do Mundo Real com Orientação a Objetos - https://www.youtube.com/watch?v=4L8Fcb_Fsyo
+
+Mentoria #6: Como se tornar um desenvolvedor de sucesso na Philips - 10/05/2022
